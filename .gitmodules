@@ -1,0 +1,12 @@
+[submodule "friesWorkbenchClientApp"]
+	path = friesWorkbenchClientApp
+	url = https://github.com/BMKEG/friesWorkbenchClientApp
+[submodule "friesWorkbenchClientComponents"]
+	path = friesWorkbenchClientComponents
+	url = https://github.com/BMKEG/friesWorkbenchClientComponents
+[submodule "friesWorkbench"]
+	path = friesWorkbench
+	url = https://github.com/BMKEG/friesWorkbench
+[submodule "vpdmf-bigMechIndexCards"]
+	path = vpdmf-bigMechIndexCards
+	url = https://github.com/BMKEG/vpdmf-bigMechIndexCards
