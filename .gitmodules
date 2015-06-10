@@ -10,3 +10,18 @@
 [submodule "vpdmf-bigMechIndexCards"]
 	path = vpdmf-bigMechIndexCards
 	url = https://github.com/BMKEG/vpdmf-bigMechIndexCards
+[submodule "vpdmf-digitalLibrary"]
+	path = vpdmf-digitalLibrary
+	url = https://github.com/BMKEG/vpdmf-digitalLibrary
+[submodule "vpdmf-ftd"]
+	path = vpdmf-ftd
+	url = https://github.com/BMKEG/vpdmf-ftd
+[submodule "vpdmf-parent"]
+	path = vpdmf-parent
+	url = https://github.com/BMKEG/vpdmf-parent
+[submodule "vpdmf-people"]
+	path = vpdmf-people
+	url = https://github.com/BMKEG/vpdmf-people
+[submodule "vpdmf-terminology"]
+	path = vpdmf-terminology
+	url = https://github.com/BMKEG/vpdmf-terminology
